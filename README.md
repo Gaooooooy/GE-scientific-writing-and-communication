@@ -36,9 +36,14 @@ abstract, paragraphy, heading, sections, conclusion/ summary; argument; referenc
 APE style;
 
 requriment:
-1. title, content
+1. title, content, 1200 - 1500, background info, applications, drawbacks, recommendations for company X, an imaginary which wishes to utilise it. 
 2. 5 people distributed equally
 3. APA style
+4. summary
+5. introduction
+6. chalenges 
+7. recommendations 
+8. conclusions: make rec regarding this tech considing sicial, environmental, economical factors.
 
 critria:
 1. organisation and formatting 
