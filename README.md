@@ -38,7 +38,7 @@ APE style;
 requriment:
 1. title, content
 2. 5 people distributed equally
-3. APA
+3. APA style
 
 critria:
 1. organisation and formatting 
