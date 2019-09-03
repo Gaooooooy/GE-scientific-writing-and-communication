@@ -56,6 +56,12 @@ critria:
 
 1.5 Getting into groups 
 
+group: 3;
+
+#### formal report
+1500 words, five people, a new/ recent piece of tachnology, due on 13th, Sep.
+8 sections, title page/ a table of contents/ visuals/ reference list;
+APE style;
 1.6 Choosing topic for Report task
 
 1.7 Researching Report
