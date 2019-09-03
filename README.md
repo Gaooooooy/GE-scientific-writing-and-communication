@@ -3,7 +3,7 @@ used for GE lecture note
 
 tutor: Mal 
 
-1. topic - 4, September, Tuesday
+1. introduction - 4, September, Tuesday
 
 1.1 Introduction to the course
 
