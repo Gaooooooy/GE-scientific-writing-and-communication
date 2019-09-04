@@ -15,9 +15,28 @@ roll the dice, let's explore!
 cici/li fei yu/ chen xiaoman  
 josiah usetc, major, automation, ME, hobby - pop music, watch movies  
 
-2.1 Introduce Group Pre
+2.1 Introduce Group Pre  
+#### consist of 
+1. an introduction of your group 
+2. an outline of the pre
+3. an introduction to the new technology
+4. an explanationof how it works
+#### pre features 
+1. drawbacks 
+2. areas of application
+3. conclusion
+4. list of figures/ tables
+5.reference 
 
 2.2 Assessment Criteria
+1. audience engagwment
+2. organisation of information
+3. pronuciation
+4. grammer and vocabulary
+5. coherence and cohesion
+6. use of visuals 
+7. teamwork
+8. referrncing
 
 
 2.3 Speaking Efficiently
@@ -33,11 +52,19 @@ Engagement
 Sturcture
 
 language-easy to understand, inspire, short sentence  
-eye contact with audience  
+eye contact with audience; to look at different  people;   
 basic ability: fluence / confidence  
-how can you be confident? prepr yourself, use hand, natural    
+how can you be confident? prepr yourself, use hand, natural      
 sturcture: logical / clear / good overview, sum up   
-visuals: picture, power point, to follow your points.     
+visuals: picture, power point, to follow your points.      
+tracks to make audience focus;  
+come up your system in you head; 
+
+pause;  
+word preee;  
+
+
+[source]:(https://emedia.rmit.edu.au/learninglab/content/presenting)
 
 
 2.4 Introduce Group Video Task
