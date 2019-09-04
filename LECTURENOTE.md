@@ -13,7 +13,9 @@ Do you love this city(suzhou) - so far I am very happy.
 
 roll the dice, let's explore!  
 cici/li fei yu/ chen xiaoman  
-josiah usetc, major, automation, ME, hobby - pop music, watch movies  
+josiah usetc, major, automation, ME, hobby - pop music, watch movies
+
+ideology: a system of ideas and values.
 
 2.1 Introduce Group Pre  
 #### consist of 
