@@ -63,8 +63,9 @@ come up your system in you head;
 pause;  
 word preee;  
 
+source: <https://emedia.rmit.edu.au/learninglab/content/presenting>
 
-[source]:(https://emedia.rmit.edu.au/learninglab/content/presenting)
+
 
 
 2.4 Introduce Group Video Task
