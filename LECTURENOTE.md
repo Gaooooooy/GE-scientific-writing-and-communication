@@ -61,14 +61,13 @@ tracks to make audience focus;
 come up your system in you head; 
 
 pause;  
-word preee;  
+word press;  
 
 source: <https://emedia.rmit.edu.au/learninglab/content/presenting>
 
+2.4 Introduce Group Video Task  
 
 
-
-2.4 Introduce Group Video Task
 
 DAY1. introduction - 4, September, Tuesday
 
@@ -86,7 +85,7 @@ about specific task(5min pre student)
 #### individual pre
 share your content
 
-### features of report:
+#### features of report:
 
 concise, no space for opinion, facts, figures; //简洁  
 logic connections; //连贯  
