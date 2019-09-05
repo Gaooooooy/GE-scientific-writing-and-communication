@@ -2,11 +2,16 @@
 1. Report Writing 
 - dictation - running: robotics 
 - robots - speaking(pair work)
-  - in what ways can rbots move?
-  - what kinds of motor can robots have?
-  - what kinds of power source can robots have?
-  - what does the sensory system do?
-  - what does the processor do?
+  - in what ways can rbots move?    
+  *the entire robot may move, on legs in the case of Honda's Asimo, on wheels, or on caterpillar tracks in the case of Urbie, or only one part may move, such as the arm of an industrial robot.*
+  - what kinds of motor can robots have?   
+  *it may be electric, pneumatic, or some form of heat engine.*
+  - what kinds of power source can robots have?   
+  *in the case of mobile robots, the usual source is a battery. in future there may be robots which use biological fuel which they collect as they move. compressed air, in tanks for mobile robots or directly from a compressor for fixed robots, is the power source for pneumatic systems.*
+  - what does the sensory system do?  
+  *in the same way that humans depend on sight, hearing, taste, smell, and touch to make sense of the world, robots require a sensory system in order to function.*
+  - what does the processor do?   
+  *it controls the operation of the robot. it is programmed to allow the robot to carry out a series of actions and to respond to feedback from the sensory system.*
 - individual pre: introduction
   - take place in week 4
   - give a pre on an original and imaginary new invention.
