@@ -27,7 +27,7 @@
       - etc
 
 - crossword
-- repoet deconstruction
+- report deconstruction
   - introction 
     - facts, present 
     - have been, mroe interested in the fact, the result.
@@ -37,8 +37,13 @@
     - develop and strengthen your arguments.
     - demostrate you have read widely on the topic.
     - use and cite multiple sources.
-    
-
+   - how to synthesise
+     - read relevant material
+     - make brief notes using key points/ ket words. compare and constrast relevant information.
+     - identify common ideas.
+     - cites references you have used. (faster to copy names, keep it simple)
+     - note-taking for synthesising. 
+   
 
 
 2. Features of Academic Writing
