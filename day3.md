@@ -12,6 +12,7 @@
   - give a pre on an original and imaginary new invention.
   - think about a problem you have that you would like to solve and how the invention can do this.
   - 5-7 mins long(2 mins dicussion)
+  - some useful [wired and awesome inventions](https://www.boredpanda.com/funny-inventions/?utm_source=cn.bing&utm_medium=referral&utm_campaign=organic)
   - features 
     - introduction of self
     - outline of the task
