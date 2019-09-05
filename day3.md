@@ -31,9 +31,14 @@
   - introction 
     - facts, present 
     - have been, mroe interested in the fact, the result.
-  - 
-- paraphrasing and  (main principles)
-- 
+- paraphrasing and synthesising (main principles)
+  - synthesising: combine ideas from a range of sources in order to group and present common ideas or arguments.
+  - allows you to
+    - develop and strengthen your arguments.
+    - demostrate you have read widely on the topic.
+    - use and cite multiple sources.
+    
+
 
 
 2. Features of Academic Writing
