@@ -9,7 +9,7 @@
   - what kinds of power source can robots have?   
   *in the case of mobile robots, the usual source is a battery. in future there may be robots which use biological fuel which they collect as they move. compressed air, in tanks for mobile robots or directly from a compressor for fixed robots, is the power source for pneumatic systems.*
   - what does the sensory system do?  
-  *in the same way that humans depend on sight, hearing, taste, smell, and touch to make sense of the world, robots require a sensory system in order to function.*
+  *it feedbacks the information to processor.*
   - what does the processor do?   
   *it controls the operation of the robot. it is programmed to allow the robot to carry out a series of actions and to respond to feedback from the sensory system.*
 - individual pre: introduction
