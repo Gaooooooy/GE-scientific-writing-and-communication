@@ -71,23 +71,35 @@
 5. homework: 
   - commas before "and",
   - tedtalk to be finished and Qs ro be answered. Questions：
-    1.	What is the acronym of the first kind of robot described and what does it stand for? 
-    2.	What do you think ‘tripedal’ means?
-    3.	What was the problem with Strider 1?
-    4.	What is the name of the second robot?
+    1.	What is the acronym of the first kind of robot described and what does it stand for?    
+    STriDER, it stands for Self-excited Tripedal Dynamic Experimental Robot.
+    2.	What do you think ‘tripedal’ means?    
+    three legs.  
+    3.	What was the problem with Strider 1?    
+    it was just too heavy in the body.
+    4.	What is the name of the second robot?   
+    IMPASS,  it stands for Intelligent Mobility Platform with Actuated Spoke System.
     5.	What is the name of the third robot?
+    CLIMBeR: Cable-suspended Limbed Intelligent Matching Behavior Robot.
     6.	How many legs does it have?
+    three legs.
     7.	What is the fourth robot called? 
+    MARS: Multi-Appendage Robotic System
     8.	What function can it perform apart from walking?
+    ChIMERA;
     9.	What is the name of the fifth robot?
+    RAPHaEL: Robotic Air-Powered Hand with Elastic Ligaments.
     10.	What is the name of the sixth robot?
+    HyDRAS, Hyper Degrees-of-freedom Robotic Articulated Serpentine.
     11.	How is its movement different from typical mechanical prosthetics (artificial limbs)?
     12. What is the name of the seventh robot? Was it expensive to make?
     13. What is it designed to do? Is it difficult to use?
     14.  What is the name of the last robot and what does its name stand for?
+    DARwIn: Dynamic Anthropomorphic Robot with Intelligence. 
     15. What is the name of the international autonomous robot soccer competition?
     16. What is its goal?
     17.  What does Dennis say are the five secrets of their success?
+    
 
 
 
