@@ -46,19 +46,48 @@
      10. prevents 
      11. let 
      12. enable, allow
-- difference between come back and go back
-   - a->b->a, come back
-   - a->b, go back
+  - difference between come back and go back
+     - a->b->a, come back
+     - a->b, go back
+  - which
+    - canberra, which is the capital of AU, is a sleepy town. additional infor.
+  - each refers to one only.
+  - all + nouns. 
+  
 - short questions to the talk-note taking 
-- Ted Talk - prof Dennis Hong and his robots
+
+- [Ted Talk](https://www.ted.com/talks/dennis_hong_my_seven_species_of_robot) - prof Dennis Hong and his robots
+
 
 2. Group pre
 - report- work allocation, topics and members(write on a piece of paper)
-
 
 3. speaking efficiently
 
 
 4. introductions
+
+
+5. homework: 
+  - commas before "and",
+  - tedtalk to be finished and Qs ro be answered. Questions：
+    1.	What is the acronym of the first kind of robot described and what does it stand for? 
+    2.	What do you think ‘tripedal’ means?
+    3.	What was the problem with Strider 1?
+    4.	What is the name of the second robot?
+    5.	What is the name of the third robot?
+    6.	How many legs does it have?
+    7.	What is the fourth robot called? 
+    8.	What function can it perform apart from walking?
+    9.	What is the name of the fifth robot?
+    10.	What is the name of the sixth robot?
+    11.	How is its movement different from typical mechanical prosthetics (artificial limbs)?
+    12. What is the name of the seventh robot? Was it expensive to make?
+    13. What is it designed to do? Is it difficult to use?
+    14.  What is the name of the last robot and what does its name stand for?
+    15. What is the name of the international autonomous robot soccer competition?
+    16. What is its goal?
+    17.  What does Dennis say are the five secrets of their success?
+
 
 
